@@ -1,6 +1,6 @@
 # r2-webdav
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/abersheeran/r2-webdav)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/unclebill/r2-webdav)
 
 Use Cloudflare Workers to provide a WebDav interface for Cloudflare R2.
 
